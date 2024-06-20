@@ -7,7 +7,7 @@ import { MaterialIcons } from '@expo/vector-icons';
 import Slider from '@react-native-community/slider';
 
 const statusBarHeight = StatusBar.currentHeight;
-const KEY_GPT = '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';
+const KEY_GPT = '';
 
 export default function App() {
 
